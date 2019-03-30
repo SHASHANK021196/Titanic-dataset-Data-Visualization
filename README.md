@@ -1,2 +1,2 @@
-# Titanic-dataset-Data-Visualization-
+# Titanic-dataset-Data-Visualization
 This project contains detailed visualization of Titanic dataset
